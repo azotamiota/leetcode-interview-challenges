@@ -1,5 +1,7 @@
 # Remove Duplicates from Sorted Array
 
+## Description
+
 Remove duplicates from sorted array **in place**!
 
 ### Example 1:
